@@ -1,0 +1,7 @@
+id=MinecraftFont
+name=MinecraftFont
+version=1.0.0
+versionCode=100
+author=DethByte64
+description=Systemless Minecraft Font
+updateJson=https://raw.githubusercontent.com/dethbyte64/magisk-minecraft-font/main/update.json
